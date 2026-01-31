@@ -4,8 +4,7 @@ Dieses Foundry-VTT-Modul liefert dir einen sofort spielbaren Einstieg in die Wel
 Benötigt wird das Spielsystem DS4: https://foundryvtt.com/packages/ds4
 
 Bislang enthalten sind Adaptionen von:
-
-    Spielbereite SC der Stufe 1 von https://dungeonslayers.net/download/DS4SC2Go.pdf
-    D2Go 10: https://dungeonslayers.net/download/Dungeon2Go10.pdf, C. KENNIG, CC-BY-NC
+- Spielbereite SC der Stufe 1 von https://dungeonslayers.net/download/DS4SC2Go.pdf
+- D2Go 10: https://dungeonslayers.net/download/Dungeon2Go10.pdf, C. KENNIG, CC-BY-NC
 
 Feedback ist gern gesehen.
