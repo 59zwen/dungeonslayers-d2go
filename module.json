@@ -1,0 +1,85 @@
+{
+  "id": "dungeonslayers-d2go",
+  "title": "Dungeonslayers - D2Go",
+  "version": "1.1.0",
+  "manifest": "https://github.com/59zwen/dungeonslayers-d2go/releases/latest/download/module.json",
+  "download": "https://github.com/59zwen/dungeonslayers-d2go/releases/download/1.1.0/module.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Dieses Foundry-VTT-Modul liefert dir einen sofort spielbaren Einstieg in die Welt von Dungeonslayers. Es enthält Inhalte von D2go – Dungeons 2 go sowie fertige Beispielcharaktere.</p>",
+  "authors": [
+    {
+      "name": "59zwen",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/59zwen/dungeonslayers-d2go",
+  "packs": [
+    {
+      "name": "d2go-Actor",
+      "label": "d2go-Actor",
+      "path": "packs/d2go-Actor",
+      "type": "Actor",
+      "system": "ds4",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "d2go-item",
+      "label": "d2go-item",
+      "path": "packs/d2go-item",
+      "type": "Item",
+      "system": "ds4",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "d2go-journal",
+      "label": "d2go-journal",
+      "path": "packs/d2go-journal",
+      "type": "JournalEntry",
+      "system": "ds4",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "d2go-scenes",
+      "label": "d2go-scenes",
+      "path": "packs/d2go-scenes",
+      "type": "Scene",
+      "system": "ds4",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "d2go-macro",
+      "label": "d2go-macro",
+      "path": "packs/d2go-macro",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ds4"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ds4",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
