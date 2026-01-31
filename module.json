@@ -1,9 +1,9 @@
 {
   "id": "dungeonslayers-d2go",
   "title": "Dungeonslayers - D2Go",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "manifest": "https://github.com/59zwen/dungeonslayers-d2go/releases/latest/download/module.json",
-  "download": "https://github.com/59zwen/dungeonslayers-d2go/releases/download/1.1.0/module.zip",
+  "download": "https://github.com/59zwen/dungeonslayers-d2go/releases/download/1.1.1/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -40,37 +40,26 @@
       }
     },
     {
-      "name": "d2go-journal",
-      "label": "d2go-journal",
-      "path": "packs/d2go-journal",
-      "type": "JournalEntry",
-      "system": "ds4",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "d2go-scenes",
-      "label": "d2go-scenes",
-      "path": "packs/d2go-scenes",
-      "type": "Scene",
-      "system": "ds4",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "d2go-macro",
       "label": "d2go-macro",
       "path": "packs/d2go-macro",
       "type": "Macro",
+      "system": "ds4",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "ds4"
+      }
+    },
+    {
+      "name": "d2go-adventure",
+      "label": "d2go-adventure",
+      "path": "packs/d2go-adventure",
+      "type": "Adventure",
+      "system": "ds4",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "relationships": {
