@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Allheilung",
+    "type": "item"
+  },
+  {
+    "name": "Arkanes Schwert",
+    "type": "item"
+  },
+  {
+    "name": "Balancieren",
+    "type": "item"
+  },
+  {
+    "name": "Bannen",
+    "type": "item"
+  },
+  {
+    "name": "Blenden",
+    "type": "item"
+  },
+  {
+    "name": "Blitz",
+    "type": "item"
+  },
+  {
+    "name": "Blut kochen",
+    "type": "item"
+  },
+  {
+    "name": "Botschaft",
+    "type": "item"
+  },
+  {
+    "name": "Dämonen beschwören",
+    "type": "item"
+  },
+  {
+    "name": "Duftnote",
+    "type": "item"
+  },
+  {
+    "name": "Durchlässig",
+    "type": "item"
+  },
+  {
+    "name": "Durchsicht",
+    "type": "item"
+  },
+  {
+    "name": "Ebenentor",
+    "type": "item"
+  },
+  {
+    "name": "Einschläfern",
+    "type": "item"
+  },
+  {
+    "name": "Elementar herbeirufen (Erde)",
+    "type": "item"
+  },
+  {
+    "name": "Elementar herbeirufen (Feuer)",
+    "type": "item"
+  },
+  {
+    "name": "Elementar herbeirufen (Luft)",
+    "type": "item"
+  },
+  {
+    "name": "Elementar herbeirufen (Wasser)",
+    "type": "item"
+  },
+  {
+    "name": "Erdspalt",
+    "type": "item"
+  },
+  {
+    "name": "Federgleich",
+    "type": "item"
+  },
+  {
+    "name": "Feueratem",
+    "type": "item"
+  },
+  {
+    "name": "Feuerball",
+    "type": "item"
+  },
+  {
+    "name": "Feuerlanze",
+    "type": "item"
+  },
+  {
+    "name": "Feuerstrahl",
+    "type": "item"
+  },
+  {
+    "name": "Feuerwand",
+    "type": "item"
+  },
+  {
+    "name": "Flackern",
+    "type": "item"
+  },
+  {
+    "name": "Flammeninferno",
+    "type": "item"
+  },
+  {
+    "name": "Flammenklinge",
+    "type": "item"
+  },
+  {
+    "name": "Fliegen",
+    "type": "item"
+  },
+  {
+    "name": "Fluch",
+    "type": "item"
+  },
+  {
+    "name": "Freund",
+    "type": "item"
+  },
+  {
+    "name": "Frostschock",
+    "type": "item"
+  },
+  {
+    "name": "Frostwaffe",
+    "type": "item"
+  },
+  {
+    "name": "Gasgestalt",
+    "type": "item"
+  },
+  {
+    "name": "Geben und Nehmen",
+    "type": "item"
+  },
+  {
+    "name": "Gehorche",
+    "type": "item"
+  },
+  {
+    "name": "Giftbann",
+    "type": "item"
+  },
+  {
+    "name": "Giftschutz",
+    "type": "item"
+  },
+  {
+    "name": "Glühender Glaube",
+    "type": "item"
+  },
+  {
+    "name": "Halt",
+    "type": "item"
+  },
+  {
+    "name": "Heilbeeren",
+    "type": "item"
+  },
+  {
+    "name": "Heilende Aura",
+    "type": "item"
+  },
+  {
+    "name": "Heilende Hand",
+    "type": "item"
+  },
+  {
+    "name": "Heilende Strahlen",
+    "type": "item"
+  },
+  {
+    "name": "Heilendes Feld",
+    "type": "item"
+  },
+  {
+    "name": "Heilendes Licht",
+    "type": "item"
+  },
+  {
+    "name": "Heiliger Hammer",
+    "type": "item"
+  },
+  {
+    "name": "Kettenblitz",
+    "type": "item"
+  },
+  {
+    "name": "Kleiner Terror",
+    "type": "item"
+  },
+  {
+    "name": "Kontrollieren",
+    "type": "item"
+  },
+  {
+    "name": "Körperexplosion",
+    "type": "item"
+  },
+  {
+    "name": "Lauschen",
+    "type": "item"
+  },
+  {
+    "name": "Licht",
+    "type": "item"
+  },
+  {
+    "name": "Lichtlanze",
+    "type": "item"
+  },
+  {
+    "name": "Lichtpfeil",
+    "type": "item"
+  },
+  {
+    "name": "Lichtsäule",
+    "type": "item"
+  },
+  {
+    "name": "Magie bannen",
+    "type": "item"
+  },
+  {
+    "name": "Magie entdecken",
+    "type": "item"
+  },
+  {
+    "name": "Magie identifizieren",
+    "type": "item"
+  },
+  {
+    "name": "Magische Barriere",
+    "type": "item"
+  },
+  {
+    "name": "Magische Rüstung",
+    "type": "item"
+  },
+  {
+    "name": "Magische Waffe",
+    "type": "item"
+  },
+  {
+    "name": "Magisches Schloss",
+    "type": "item"
+  },
+  {
+    "name": "Manabrot",
+    "type": "item"
+  },
+  {
+    "name": "Nahrung zaubern",
+    "type": "item"
+  },
+  {
+    "name": "Netz",
+    "type": "item"
+  },
+  {
+    "name": "Niesanfall",
+    "type": "item"
+  },
+  {
+    "name": "Öffnen",
+    "type": "item"
+  },
+  {
+    "name": "Putzteufel",
+    "type": "item"
+  },
+  {
+    "name": "Reinigen",
+    "type": "item"
+  },
+  {
+    "name": "Rost",
+    "type": "item"
+  },
+  {
+    "name": "Schatten",
+    "type": "item"
+  },
+  {
+    "name": "Schatten erwecken",
+    "type": "item"
+  },
+  {
+    "name": "Schattenklinge",
+    "type": "item"
+  },
+  {
+    "name": "Schattenlanze",
+    "type": "item"
+  },
+  {
+    "name": "Schattenpfeil",
+    "type": "item"
+  },
+  {
+    "name": "Schattensäule",
+    "type": "item"
+  },
+  {
+    "name": "Schleudern",
+    "type": "item"
+  },
+  {
+    "name": "Schutzfeld",
+    "type": "item"
+  },
+  {
+    "name": "Schutzkuppel",
+    "type": "item"
+  },
+  {
+    "name": "Schutzschild",
+    "type": "item"
+  },
+  {
+    "name": "Schutzschild dehnen",
+    "type": "item"
+  },
+  {
+    "name": "Schutzschild stärken",
+    "type": "item"
+  },
+  {
+    "name": "Schweben",
+    "type": "item"
+  },
+  {
+    "name": "Schweig",
+    "type": "item"
+  },
+  {
+    "name": "Segen",
+    "type": "item"
+  },
+  {
+    "name": "Skelette erwecken",
+    "type": "item"
+  },
+  {
+    "name": "Spionage",
+    "type": "item"
+  },
+  {
+    "name": "Springen",
+    "type": "item"
+  },
+  {
+    "name": "Spurt",
+    "type": "item"
+  },
+  {
+    "name": "Steinwand",
+    "type": "item"
+  },
+  {
+    "name": "Stolpern",
+    "type": "item"
+  },
+  {
+    "name": "Stoßgebet",
+    "type": "item"
+  },
+  {
+    "name": "Tanz",
+    "type": "item"
+  },
+  {
+    "name": "Tarnender Nebel",
+    "type": "item"
+  },
+  {
+    "name": "Telekinese",
+    "type": "item"
+  },
+  {
+    "name": "Teleport",
+    "type": "item"
+  },
+  {
+    "name": "Terror",
+    "type": "item"
+  },
+  {
+    "name": "Tierbeherschung",
+    "type": "item"
+  },
+  {
+    "name": "Tiere besänftigen",
+    "type": "item"
+  },
+  {
+    "name": "Totengespräch",
+    "type": "item"
+  },
+  {
+    "name": "Trugbild",
+    "type": "item"
+  },
+  {
+    "name": "Unsichtbares sehen",
+    "type": "item"
+  },
+  {
+    "name": "Unsichtbarkeit",
+    "type": "item"
+  },
+  {
+    "name": "Verborgenes sehen",
+    "type": "item"
+  },
+  {
+    "name": "Verdampfen",
+    "type": "item"
+  },
+  {
+    "name": "Vergrößern",
+    "type": "item"
+  },
+  {
+    "name": "Verkleinern",
+    "type": "item"
+  },
+  {
+    "name": "Verlangsamen",
+    "type": "item"
+  },
+  {
+    "name": "Versetzen",
+    "type": "item"
+  },
+  {
+    "name": "Versetzte Stimme",
+    "type": "item"
+  },
+  {
+    "name": "Verteidigung",
+    "type": "item"
+  },
+  {
+    "name": "Vertreiben",
+    "type": "item"
+  },
+  {
+    "name": "Verwandlung",
+    "type": "item"
+  },
+  {
+    "name": "Verwirren",
+    "type": "item"
+  },
+  {
+    "name": "Volksgestalt",
+    "type": "item"
+  },
+  {
+    "name": "Wächter",
+    "type": "item"
+  },
+  {
+    "name": "Waffe des Lichts",
+    "type": "item"
+  },
+  {
+    "name": "Wahnsinn",
+    "type": "item"
+  },
+  {
+    "name": "Wandöffnung",
+    "type": "item"
+  },
+  {
+    "name": "Wasser teilen",
+    "type": "item"
+  },
+  {
+    "name": "Wasser weihen",
+    "type": "item"
+  },
+  {
+    "name": "Wasserwandeln",
+    "type": "item"
+  },
+  {
+    "name": "Wechselzauber",
+    "type": "item"
+  },
+  {
+    "name": "Wiederbelebung",
+    "type": "item"
+  },
+  {
+    "name": "Wolke der Reue",
+    "type": "item"
+  },
+  {
+    "name": "Wolke des Todes",
+    "type": "item"
+  },
+  {
+    "name": "Zauberabklang",
+    "type": "item"
+  },
+  {
+    "name": "Zauberleiter",
+    "type": "item"
+  },
+  {
+    "name": "Zaubertrick",
+    "type": "item"
+  },
+  {
+    "name": "Zeitstop",
+    "type": "item"
+  },
+  {
+    "name": "Zombies erwecken",
+    "type": "item"
+  }
+]

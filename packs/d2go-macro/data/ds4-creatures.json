@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Adler",
+    "type": "actor"
+  },
+  {
+    "name": "Alligator",
+    "type": "actor"
+  },
+  {
+    "name": "Augenball",
+    "type": "actor"
+  },
+  {
+    "name": "Bär",
+    "type": "actor"
+  },
+  {
+    "name": "Basilisk",
+    "type": "actor"
+  },
+  {
+    "name": "Baumherr",
+    "type": "actor"
+  },
+  {
+    "name": "Dämonenfürst",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Blau)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Bronze)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Gelb)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Gold)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Grün)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Rot)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (schwarz)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Silber)",
+    "type": "actor"
+  },
+  {
+    "name": "Drachenwelpe (Weiß)",
+    "type": "actor"
+  },
+  {
+    "name": "Echsenmensch",
+    "type": "actor"
+  },
+  {
+    "name": "Einhorn",
+    "type": "actor"
+  },
+  {
+    "name": "Erdelementar I",
+    "type": "actor"
+  },
+  {
+    "name": "Erdelementar II",
+    "type": "actor"
+  },
+  {
+    "name": "Erdelementar III",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Blau)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Bronze)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Gelb)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Gold)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Grün)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Rot)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Schwarz)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Silber)",
+    "type": "actor"
+  },
+  {
+    "name": "Erwachsener Drache (Weiss)",
+    "type": "actor"
+  },
+  {
+    "name": "Eulerich",
+    "type": "actor"
+  },
+  {
+    "name": "Feuerelementar I",
+    "type": "actor"
+  },
+  {
+    "name": "Feuerelementar II",
+    "type": "actor"
+  },
+  {
+    "name": "Feuerelementar III",
+    "type": "actor"
+  },
+  {
+    "name": "Fliegendes Schwert",
+    "type": "actor"
+  },
+  {
+    "name": "Gargyl",
+    "type": "actor"
+  },
+  {
+    "name": "Geist",
+    "type": "actor"
+  },
+  {
+    "name": "Goblin",
+    "type": "actor"
+  },
+  {
+    "name": "Golem, Eisen-",
+    "type": "actor"
+  },
+  {
+    "name": "Golem, Knochen-",
+    "type": "actor"
+  },
+  {
+    "name": "Golem, Kristall-",
+    "type": "actor"
+  },
+  {
+    "name": "Golem, Lehm-",
+    "type": "actor"
+  },
+  {
+    "name": "Golem, Stein-",
+    "type": "actor"
+  },
+  {
+    "name": "Hai",
+    "type": "actor"
+  },
+  {
+    "name": "Harpyie",
+    "type": "actor"
+  },
+  {
+    "name": "Hobgoblin",
+    "type": "actor"
+  },
+  {
+    "name": "Hoher Dämon",
+    "type": "actor"
+  },
+  {
+    "name": "Hund",
+    "type": "actor"
+  },
+  {
+    "name": "Hydra",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Blau)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Bronze)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Gelb)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Gold)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Grün)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Rot)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Schwarz)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Silber)",
+    "type": "actor"
+  },
+  {
+    "name": "Jungdrache (Weiss)",
+    "type": "actor"
+  },
+  {
+    "name": "Kampfdämon",
+    "type": "actor"
+  },
+  {
+    "name": "Keiler",
+    "type": "actor"
+  },
+  {
+    "name": "Kobold",
+    "type": "actor"
+  },
+  {
+    "name": "Kriegsdämon",
+    "type": "actor"
+  },
+  {
+    "name": "Kriegselefant",
+    "type": "actor"
+  },
+  {
+    "name": "Lebende Rüstung",
+    "type": "actor"
+  },
+  {
+    "name": "Leichnam",
+    "type": "actor"
+  },
+  {
+    "name": "Luftelementar I",
+    "type": "actor"
+  },
+  {
+    "name": "Luftelementar II",
+    "type": "actor"
+  },
+  {
+    "name": "Luftelementar III",
+    "type": "actor"
+  },
+  {
+    "name": "Medusa",
+    "type": "actor"
+  },
+  {
+    "name": "Minotaurus",
+    "type": "actor"
+  },
+  {
+    "name": "Monsterspinne",
+    "type": "actor"
+  },
+  {
+    "name": "Mumie",
+    "type": "actor"
+  },
+  {
+    "name": "Niederer Dämon",
+    "type": "actor"
+  },
+  {
+    "name": "Oger",
+    "type": "actor"
+  },
+  {
+    "name": "Ork",
+    "type": "actor"
+  },
+  {
+    "name": "Pferd",
+    "type": "actor"
+  },
+  {
+    "name": "Pony",
+    "type": "actor"
+  },
+  {
+    "name": "Ratte",
+    "type": "actor"
+  },
+  {
+    "name": "Raubkatze",
+    "type": "actor"
+  },
+  {
+    "name": "Reitkeiler",
+    "type": "actor"
+  },
+  {
+    "name": "Riese",
+    "type": "actor"
+  },
+  {
+    "name": "Riesenechse",
+    "type": "actor"
+  },
+  {
+    "name": "Riesenkrake",
+    "type": "actor"
+  },
+  {
+    "name": "Riesenratte",
+    "type": "actor"
+  },
+  {
+    "name": "Riesenschlange",
+    "type": "actor"
+  },
+  {
+    "name": "Rostassel",
+    "type": "actor"
+  },
+  {
+    "name": "Schatten",
+    "type": "actor"
+  },
+  {
+    "name": "Schimmerross",
+    "type": "actor"
+  },
+  {
+    "name": "Schlachtross",
+    "type": "actor"
+  },
+  {
+    "name": "Schlingwurzelbusch",
+    "type": "actor"
+  },
+  {
+    "name": "Schwarm",
+    "type": "actor"
+  },
+  {
+    "name": "Skelett",
+    "type": "actor"
+  },
+  {
+    "name": "Tentakelhirn",
+    "type": "actor"
+  },
+  {
+    "name": "Teufelchen I",
+    "type": "actor"
+  },
+  {
+    "name": "Teufelchen II",
+    "type": "actor"
+  },
+  {
+    "name": "Teufelchen III",
+    "type": "actor"
+  },
+  {
+    "name": "Todesfee",
+    "type": "actor"
+  },
+  {
+    "name": "Troll",
+    "type": "actor"
+  },
+  {
+    "name": "Unwolf",
+    "type": "actor"
+  },
+  {
+    "name": "Vampirfledermaus",
+    "type": "actor"
+  },
+  {
+    "name": "Wasserelementar I",
+    "type": "actor"
+  },
+  {
+    "name": "Wasserelementar II",
+    "type": "actor"
+  },
+  {
+    "name": "Wasserelementar III",
+    "type": "actor"
+  },
+  {
+    "name": "Wolf",
+    "type": "actor"
+  },
+  {
+    "name": "Zombie",
+    "type": "actor"
+  }
+]

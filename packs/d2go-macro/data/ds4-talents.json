@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Abklingen",
+    "type": "item"
+  },
+  {
+    "name": "Abklingendes Blut",
+    "type": "item"
+  },
+  {
+    "name": "Aderschlitzer",
+    "type": "item"
+  },
+  {
+    "name": "Adlergestalt",
+    "type": "item"
+  },
+  {
+    "name": "Akrobat",
+    "type": "item"
+  },
+  {
+    "name": "Alchemie",
+    "type": "item"
+  },
+  {
+    "name": "Arkane Explosion",
+    "type": "item"
+  },
+  {
+    "name": "Ausweichen",
+    "type": "item"
+  },
+  {
+    "name": "Bändiger",
+    "type": "item"
+  },
+  {
+    "name": "Bärengestalt",
+    "type": "item"
+  },
+  {
+    "name": "Beschwörer",
+    "type": "item"
+  },
+  {
+    "name": "Beute Schätzen",
+    "type": "item"
+  },
+  {
+    "name": "Bildung",
+    "type": "item"
+  },
+  {
+    "name": "Blitzmacher",
+    "type": "item"
+  },
+  {
+    "name": "Blocker",
+    "type": "item"
+  },
+  {
+    "name": "Blutige Heilung",
+    "type": "item"
+  },
+  {
+    "name": "Blutschild",
+    "type": "item"
+  },
+  {
+    "name": "Brutaler Hieb",
+    "type": "item"
+  },
+  {
+    "name": "Charmant",
+    "type": "item"
+  },
+  {
+    "name": "Dämonen zerschmettern",
+    "type": "item"
+  },
+  {
+    "name": "Dämonenbrut",
+    "type": "item"
+  },
+  {
+    "name": "Dämonenzauber",
+    "type": "item"
+  },
+  {
+    "name": "Diebeskunst",
+    "type": "item"
+  },
+  {
+    "name": "Diener der Dunkelheit",
+    "type": "item"
+  },
+  {
+    "name": "Diener des Lichts",
+    "type": "item"
+  },
+  {
+    "name": "Einbetten",
+    "type": "item"
+  },
+  {
+    "name": "Einstecker",
+    "type": "item"
+  },
+  {
+    "name": "Elementare bündeln",
+    "type": "item"
+  },
+  {
+    "name": "Elementen trotzen",
+    "type": "item"
+  },
+  {
+    "name": "Explosionskontrolle",
+    "type": "item"
+  },
+  {
+    "name": "Feuermagier",
+    "type": "item"
+  },
+  {
+    "name": "Fieser Schuss",
+    "type": "item"
+  },
+  {
+    "name": "Flink",
+    "type": "item"
+  },
+  {
+    "name": "Friedvoller Hieb",
+    "type": "item"
+  },
+  {
+    "name": "Frontheiler",
+    "type": "item"
+  },
+  {
+    "name": "Fürsorger",
+    "type": "item"
+  },
+  {
+    "name": "Genesung",
+    "type": "item"
+  },
+  {
+    "name": "Gerüstet",
+    "type": "item"
+  },
+  {
+    "name": "Gezieltes Gift",
+    "type": "item"
+  },
+  {
+    "name": "Glückspilz",
+    "type": "item"
+  },
+  {
+    "name": "Handwerk",
+    "type": "item"
+  },
+  {
+    "name": "Heimlichkeit",
+    "type": "item"
+  },
+  {
+    "name": "Heldenglück",
+    "type": "item"
+  },
+  {
+    "name": "Herausforderer der Elemente",
+    "type": "item"
+  },
+  {
+    "name": "Herr der Elemente",
+    "type": "item"
+  },
+  {
+    "name": "Hinterhältiger Angriff",
+    "type": "item"
+  },
+  {
+    "name": "Homonkulus",
+    "type": "item"
+  },
+  {
+    "name": "Ich muss weg!",
+    "type": "item"
+  },
+  {
+    "name": "In Deckung",
+    "type": "item"
+  },
+  {
+    "name": "Instrument",
+    "type": "item"
+  },
+  {
+    "name": "Jäger",
+    "type": "item"
+  },
+  {
+    "name": "Kämpfer",
+    "type": "item"
+  },
+  {
+    "name": "Kann ich mal vorbei?",
+    "type": "item"
+  },
+  {
+    "name": "Kletterass",
+    "type": "item"
+  },
+  {
+    "name": "Knechtschaft",
+    "type": "item"
+  },
+  {
+    "name": "Kraft der Bestie",
+    "type": "item"
+  },
+  {
+    "name": "Kreiszeichner",
+    "type": "item"
+  },
+  {
+    "name": "Langfinger",
+    "type": "item"
+  },
+  {
+    "name": "Macht des Blutes",
+    "type": "item"
+  },
+  {
+    "name": "Macht des Blutes",
+    "type": "item"
+  },
+  {
+    "name": "Mächtige Beschwörung",
+    "type": "item"
+  },
+  {
+    "name": "Mächtige Erweckung",
+    "type": "item"
+  },
+  {
+    "name": "Mächtige Herbeirufung",
+    "type": "item"
+  },
+  {
+    "name": "Magieresistent",
+    "type": "item"
+  },
+  {
+    "name": "Manipulator",
+    "type": "item"
+  },
+  {
+    "name": "Meister aller Klassen",
+    "type": "item"
+  },
+  {
+    "name": "Meister seiner Klasse",
+    "type": "item"
+  },
+  {
+    "name": "Meucheln",
+    "type": "item"
+  },
+  {
+    "name": "Nekromantie",
+    "type": "item"
+  },
+  {
+    "name": "Panzerung zerschmettern",
+    "type": "item"
+  },
+  {
+    "name": "Parade",
+    "type": "item"
+  },
+  {
+    "name": "Perfektion",
+    "type": "item"
+  },
+  {
+    "name": "Präziser Schuss",
+    "type": "item"
+  },
+  {
+    "name": "Prügler",
+    "type": "item"
+  },
+  {
+    "name": "Raserei",
+    "type": "item"
+  },
+  {
+    "name": "Reiten",
+    "type": "item"
+  },
+  {
+    "name": "Ritual der Narben",
+    "type": "item"
+  },
+  {
+    "name": "Rundumschlag",
+    "type": "item"
+  },
+  {
+    "name": "Runenkunde",
+    "type": "item"
+  },
+  {
+    "name": "Rüstträger",
+    "type": "item"
+  },
+  {
+    "name": "Rüstzauberer",
+    "type": "item"
+  },
+  {
+    "name": "Salve",
+    "type": "item"
+  },
+  {
+    "name": "Sattelschütze",
+    "type": "item"
+  },
+  {
+    "name": "Scharfschütze",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtruf",
+    "type": "item"
+  },
+  {
+    "name": "Schlitzohr",
+    "type": "item"
+  },
+  {
+    "name": "Schlossknacker",
+    "type": "item"
+  },
+  {
+    "name": "Schmerzhafter Wechsel",
+    "type": "item"
+  },
+  {
+    "name": "Schnelle Reflexe",
+    "type": "item"
+  },
+  {
+    "name": "Schnutz vor Elementen",
+    "type": "item"
+  },
+  {
+    "name": "Schütze",
+    "type": "item"
+  },
+  {
+    "name": "Schwimmen",
+    "type": "item"
+  },
+  {
+    "name": "Sehnenschneider",
+    "type": "item"
+  },
+  {
+    "name": "Sensenspötter",
+    "type": "item"
+  },
+  {
+    "name": "Spruchmeister",
+    "type": "item"
+  },
+  {
+    "name": "Stabbindung",
+    "type": "item"
+  },
+  {
+    "name": "Standhaft",
+    "type": "item"
+  },
+  {
+    "name": "Teufelchen",
+    "type": "item"
+  },
+  {
+    "name": "Tiergestalt",
+    "type": "item"
+  },
+  {
+    "name": "Tiermeister",
+    "type": "item"
+  },
+  {
+    "name": "Tod entrinnen",
+    "type": "item"
+  },
+  {
+    "name": "Todeskraft",
+    "type": "item"
+  },
+  {
+    "name": "Totenrufer",
+    "type": "item"
+  },
+  {
+    "name": "Unersättliches Beschwören",
+    "type": "item"
+  },
+  {
+    "name": "Untote Horden",
+    "type": "item"
+  },
+  {
+    "name": "Untote zerschmettern",
+    "type": "item"
+  },
+  {
+    "name": "Verdrücken",
+    "type": "item"
+  },
+  {
+    "name": "Vergeltung",
+    "type": "item"
+  },
+  {
+    "name": "Verheerer",
+    "type": "item"
+  },
+  {
+    "name": "Verletzen",
+    "type": "item"
+  },
+  {
+    "name": "Vernichtender Schlag",
+    "type": "item"
+  },
+  {
+    "name": "Vertrautenband",
+    "type": "item"
+  },
+  {
+    "name": "Vertrauter",
+    "type": "item"
+  },
+  {
+    "name": "Waffenkenner",
+    "type": "item"
+  },
+  {
+    "name": "Waffenloser Meister",
+    "type": "item"
+  },
+  {
+    "name": "Wahrnehmung",
+    "type": "item"
+  },
+  {
+    "name": "Wechsler",
+    "type": "item"
+  },
+  {
+    "name": "Wissensegebiet",
+    "type": "item"
+  },
+  {
+    "name": "Zauber auslösen",
+    "type": "item"
+  },
+  {
+    "name": "Zaubermacht",
+    "type": "item"
+  },
+  {
+    "name": "Zauberwaffe",
+    "type": "item"
+  },
+  {
+    "name": "Zehrender Spurt",
+    "type": "item"
+  },
+  {
+    "name": "Zwei Waffen",
+    "type": "item"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "name": "Abklingring",
+    "type": "item"
+  },
+  {
+    "name": "Abklingtrank",
+    "type": "item"
+  },
+  {
+    "name": "Aderschlitz",
+    "type": "item"
+  },
+  {
+    "name": "Allheilungstrank",
+    "type": "item"
+  },
+  {
+    "name": "Allsichttrank",
+    "type": "item"
+  },
+  {
+    "name": "Alterungstrank",
+    "type": "item"
+  },
+  {
+    "name": "Andauernder Heiltrank",
+    "type": "item"
+  },
+  {
+    "name": "Angelhaken und Schnur",
+    "type": "item"
+  },
+  {
+    "name": "Anhänger mit heiligem Symbol",
+    "type": "item"
+  },
+  {
+    "name": "Armreif des Bogners",
+    "type": "item"
+  },
+  {
+    "name": "Atemfreitrank",
+    "type": "item"
+  },
+  {
+    "name": "Axt",
+    "type": "item"
+  },
+  {
+    "name": "Axt +1",
+    "type": "item"
+  },
+  {
+    "name": "Axt +2",
+    "type": "item"
+  },
+  {
+    "name": "Axt +3",
+    "type": "item"
+  },
+  {
+    "name": "Bärenfalle",
+    "type": "item"
+  },
+  {
+    "name": "Bärenpanzer",
+    "type": "item"
+  },
+  {
+    "name": "Berserkertrank",
+    "type": "item"
+  },
+  {
+    "name": "Bihänder",
+    "type": "item"
+  },
+  {
+    "name": "Bihänder +1",
+    "type": "item"
+  },
+  {
+    "name": "Bihänder +2",
+    "type": "item"
+  },
+  {
+    "name": "Bihänder +3",
+    "type": "item"
+  },
+  {
+    "name": "Blendlaterne",
+    "type": "item"
+  },
+  {
+    "name": "Blutrüstung",
+    "type": "item"
+  },
+  {
+    "name": "Brechstange",
+    "type": "item"
+  },
+  {
+    "name": "Breitschwert",
+    "type": "item"
+  },
+  {
+    "name": "Breitschwert +1",
+    "type": "item"
+  },
+  {
+    "name": "Breitschwert +2",
+    "type": "item"
+  },
+  {
+    "name": "Breitschwert +3",
+    "type": "item"
+  },
+  {
+    "name": "Brennholz (Bündel)",
+    "type": "item"
+  },
+  {
+    "name": "Decke",
+    "type": "item"
+  },
+  {
+    "name": "Dicke Reisedecke",
+    "type": "item"
+  },
+  {
+    "name": "Dietrich",
+    "type": "item"
+  },
+  {
+    "name": "Dolch",
+    "type": "item"
+  },
+  {
+    "name": "Dolch +1",
+    "type": "item"
+  },
+  {
+    "name": "Dolch +2",
+    "type": "item"
+  },
+  {
+    "name": "Dolch +3",
+    "type": "item"
+  },
+  {
+    "name": "Elfenbogen",
+    "type": "item"
+  },
+  {
+    "name": "Elfenbogen +1",
+    "type": "item"
+  },
+  {
+    "name": "Elfenbogen +2",
+    "type": "item"
+  },
+  {
+    "name": "Elfenbogen +3",
+    "type": "item"
+  },
+  {
+    "name": "Elfenstiefel",
+    "type": "item"
+  },
+  {
+    "name": "Elfischer Sattel",
+    "type": "item"
+  },
+  {
+    "name": "Elfischer Tarnumhang",
+    "type": "item"
+  },
+  {
+    "name": "Fackel",
+    "type": "item"
+  },
+  {
+    "name": "Fäustlinge der Verstümmelung",
+    "type": "item"
+  },
+  {
+    "name": "Federkiel",
+    "type": "item"
+  },
+  {
+    "name": "Feindfeger",
+    "type": "item"
+  },
+  {
+    "name": "Fellmantel des Heilers",
+    "type": "item"
+  },
+  {
+    "name": "Feuerballzepter",
+    "type": "item"
+  },
+  {
+    "name": "Feuerstein & Zunder",
+    "type": "item"
+  },
+  {
+    "name": "Flegel",
+    "type": "item"
+  },
+  {
+    "name": "Flegel +1",
+    "type": "item"
+  },
+  {
+    "name": "Flegel +2",
+    "type": "item"
+  },
+  {
+    "name": "Flegel +3",
+    "type": "item"
+  },
+  {
+    "name": "Fliegender Teppich",
+    "type": "item"
+  },
+  {
+    "name": "Fliegentrank",
+    "type": "item"
+  },
+  {
+    "name": "Geisterbote",
+    "type": "item"
+  },
+  {
+    "name": "Gewänder des Adlers",
+    "type": "item"
+  },
+  {
+    "name": "Giftbanntrank",
+    "type": "item"
+  },
+  {
+    "name": "Glückstrank",
+    "type": "item"
+  },
+  {
+    "name": "Grausame Axt",
+    "type": "item"
+  },
+  {
+    "name": "Großer Heiltrank",
+    "type": "item"
+  },
+  {
+    "name": "Großer Schutztrank",
+    "type": "item"
+  },
+  {
+    "name": "Gürtel der Trollstärke",
+    "type": "item"
+  },
+  {
+    "name": "Hammer",
+    "type": "item"
+  },
+  {
+    "name": "Hammer +1",
+    "type": "item"
+  },
+  {
+    "name": "Hammer +2",
+    "type": "item"
+  },
+  {
+    "name": "Hammer +3",
+    "type": "item"
+  },
+  {
+    "name": "Handschellen",
+    "type": "item"
+  },
+  {
+    "name": "Heilkraut",
+    "type": "item"
+  },
+  {
+    "name": "Heiltrank",
+    "type": "item"
+  },
+  {
+    "name": "Hellebarde",
+    "type": "item"
+  },
+  {
+    "name": "Hellebarde +1",
+    "type": "item"
+  },
+  {
+    "name": "Hellebarde +2",
+    "type": "item"
+  },
+  {
+    "name": "Hellebarde +3",
+    "type": "item"
+  },
+  {
+    "name": "Holzbecher",
+    "type": "item"
+  },
+  {
+    "name": "Holzbesteck",
+    "type": "item"
+  },
+  {
+    "name": "Holzschild",
+    "type": "item"
+  },
+  {
+    "name": "Holzschild +1",
+    "type": "item"
+  },
+  {
+    "name": "Holzschild +2",
+    "type": "item"
+  },
+  {
+    "name": "Holzschild +3",
+    "type": "item"
+  },
+  {
+    "name": "Holzwürfel (sechsseitig)",
+    "type": "item"
+  },
+  {
+    "name": "Immertreff",
+    "type": "item"
+  },
+  {
+    "name": "Kampfstab",
+    "type": "item"
+  },
+  {
+    "name": "Kampfstab +1",
+    "type": "item"
+  },
+  {
+    "name": "Kampfstab +2",
+    "type": "item"
+  },
+  {
+    "name": "Kampfstab +3",
+    "type": "item"
+  },
+  {
+    "name": "Kampftrank",
+    "type": "item"
+  },
+  {
+    "name": "Karren (2 Räder)",
+    "type": "item"
+  },
+  {
+    "name": "Karten des Schummlers",
+    "type": "item"
+  },
+  {
+    "name": "Kartenspiel",
+    "type": "item"
+  },
+  {
+    "name": "Kette der Regeneration",
+    "type": "item"
+  },
+  {
+    "name": "Kettenpanzer",
+    "type": "item"
+  },
+  {
+    "name": "Kettenpanzer +1",
+    "type": "item"
+  },
+  {
+    "name": "Kettenpanzer +2",
+    "type": "item"
+  },
+  {
+    "name": "Kettenpanzer +3",
+    "type": "item"
+  },
+  {
+    "name": "Keule",
+    "type": "item"
+  },
+  {
+    "name": "Keule +1",
+    "type": "item"
+  },
+  {
+    "name": "Keule +2",
+    "type": "item"
+  },
+  {
+    "name": "Keule +3",
+    "type": "item"
+  },
+  {
+    "name": "Kletterausrüstung",
+    "type": "item"
+  },
+  {
+    "name": "Klettertrank",
+    "type": "item"
+  },
+  {
+    "name": "Kluft des Jägers",
+    "type": "item"
+  },
+  {
+    "name": "Kompass",
+    "type": "item"
+  },
+  {
+    "name": "Königsblut",
+    "type": "item"
+  },
+  {
+    "name": "Konzentrationstrank",
+    "type": "item"
+  },
+  {
+    "name": "Kriegshorn",
+    "type": "item"
+  },
+  {
+    "name": "Kristallkugel",
+    "type": "item"
+  },
+  {
+    "name": "Krummsäbel",
+    "type": "item"
+  },
+  {
+    "name": "Krummsäbel +1",
+    "type": "item"
+  },
+  {
+    "name": "Krummsäbel +2",
+    "type": "item"
+  },
+  {
+    "name": "Krummsäbel +3",
+    "type": "item"
+  },
+  {
+    "name": "Krummschwert",
+    "type": "item"
+  },
+  {
+    "name": "Krummschwert +1",
+    "type": "item"
+  },
+  {
+    "name": "Krummschwert +2",
+    "type": "item"
+  },
+  {
+    "name": "Krummschwert +3",
+    "type": "item"
+  },
+  {
+    "name": "Kundschafterpanzer",
+    "type": "item"
+  },
+  {
+    "name": "Kurzbogen",
+    "type": "item"
+  },
+  {
+    "name": "Kurzbogen +1",
+    "type": "item"
+  },
+  {
+    "name": "Kurzbogen +2",
+    "type": "item"
+  },
+  {
+    "name": "Kurzbogen +3",
+    "type": "item"
+  },
+  {
+    "name": "Kurzschwert",
+    "type": "item"
+  },
+  {
+    "name": "Kurzschwert +1",
+    "type": "item"
+  },
+  {
+    "name": "Kurzschwert +2",
+    "type": "item"
+  },
+  {
+    "name": "Kurzschwert +3",
+    "type": "item"
+  },
+  {
+    "name": "Langbogen",
+    "type": "item"
+  },
+  {
+    "name": "Langbogen +1",
+    "type": "item"
+  },
+  {
+    "name": "Langbogen +2",
+    "type": "item"
+  },
+  {
+    "name": "Langbogen +3",
+    "type": "item"
+  },
+  {
+    "name": "Langschwert",
+    "type": "item"
+  },
+  {
+    "name": "Langschwert +1",
+    "type": "item"
+  },
+  {
+    "name": "Langschwert +2",
+    "type": "item"
+  },
+  {
+    "name": "Langschwert +3",
+    "type": "item"
+  },
+  {
+    "name": "Lanze",
+    "type": "item"
+  },
+  {
+    "name": "Lanze +1",
+    "type": "item"
+  },
+  {
+    "name": "Lanze +2",
+    "type": "item"
+  },
+  {
+    "name": "Lanze +3",
+    "type": "item"
+  },
+  {
+    "name": "Laterne",
+    "type": "item"
+  },
+  {
+    "name": "Laternenöl (brennt 4h)",
+    "type": "item"
+  },
+  {
+    "name": "Lederbecher",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer (Für Reittiere)",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer (Für Reittiere) +1",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer (Für Reittiere) +2",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer (Für Reittiere) +3",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer +1",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer +2",
+    "type": "item"
+  },
+  {
+    "name": "Lederpanzer +3",
+    "type": "item"
+  },
+  {
+    "name": "Lederschienen",
+    "type": "item"
+  },
+  {
+    "name": "Lederschienen +1",
+    "type": "item"
+  },
+  {
+    "name": "Lederschienen +2",
+    "type": "item"
+  },
+  {
+    "name": "Lederschienen +3",
+    "type": "item"
+  },
+  {
+    "name": "Leichte Armbrust",
+    "type": "item"
+  },
+  {
+    "name": "Leichte Armbrust +1",
+    "type": "item"
+  },
+  {
+    "name": "Leichte Armbrust +2",
+    "type": "item"
+  },
+  {
+    "name": "Leichte Armbrust +3",
+    "type": "item"
+  },
+  {
+    "name": "Mantel der Augen",
+    "type": "item"
+  },
+  {
+    "name": "Metallbesteck",
+    "type": "item"
+  },
+  {
+    "name": "Metallhelm",
+    "type": "item"
+  },
+  {
+    "name": "Metallhelm +1",
+    "type": "item"
+  },
+  {
+    "name": "Metallhelm +2",
+    "type": "item"
+  },
+  {
+    "name": "Metallhelm +3",
+    "type": "item"
+  },
+  {
+    "name": "Metallkrug",
+    "type": "item"
+  },
+  {
+    "name": "Metallschild",
+    "type": "item"
+  },
+  {
+    "name": "Metallschild +1",
+    "type": "item"
+  },
+  {
+    "name": "Metallschild +2",
+    "type": "item"
+  },
+  {
+    "name": "Metallschild +3",
+    "type": "item"
+  },
+  {
+    "name": "Morgenstern",
+    "type": "item"
+  },
+  {
+    "name": "Morgenstern +1",
+    "type": "item"
+  },
+  {
+    "name": "Morgenstern +2",
+    "type": "item"
+  },
+  {
+    "name": "Morgenstern +3",
+    "type": "item"
+  },
+  {
+    "name": "Orkspalter",
+    "type": "item"
+  },
+  {
+    "name": "Parfüm (50 x benutzbar)",
+    "type": "item"
+  },
+  {
+    "name": "Pergamentblatt",
+    "type": "item"
+  },
+  {
+    "name": "Pfanne",
+    "type": "item"
+  },
+  {
+    "name": "Pfeife",
+    "type": "item"
+  },
+  {
+    "name": "Plattenarmschienen",
+    "type": "item"
+  },
+  {
+    "name": "Plattenarmschienen +1",
+    "type": "item"
+  },
+  {
+    "name": "Plattenarmschienen +2",
+    "type": "item"
+  },
+  {
+    "name": "Plattenarmschienen +3",
+    "type": "item"
+  },
+  {
+    "name": "Plattenbeinschienen",
+    "type": "item"
+  },
+  {
+    "name": "Plattenbeinschienen +1",
+    "type": "item"
+  },
+  {
+    "name": "Plattenbeinschienen +2",
+    "type": "item"
+  },
+  {
+    "name": "Plattenbeinschienen +3",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer (Für Reittiere)",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer (Für Reittiere) +1",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer (Für Reittiere) +2",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer (Für Reittiere) +3",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer +1",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer +2",
+    "type": "item"
+  },
+  {
+    "name": "Plattenpanzer +3",
+    "type": "item"
+  },
+  {
+    "name": "Rauchkraut (5 Pfeifenköpfe)",
+    "type": "item"
+  },
+  {
+    "name": "Robe",
+    "type": "item"
+  },
+  {
+    "name": "Robe +1",
+    "type": "item"
+  },
+  {
+    "name": "Robe +2",
+    "type": "item"
+  },
+  {
+    "name": "Robe +3",
+    "type": "item"
+  },
+  {
+    "name": "Robe der Macht",
+    "type": "item"
+  },
+  {
+    "name": "Robe des Denkers",
+    "type": "item"
+  },
+  {
+    "name": "Robe des Heilers",
+    "type": "item"
+  },
+  {
+    "name": "Rucksack",
+    "type": "item"
+  },
+  {
+    "name": "Ruderboot (2 Mann)",
+    "type": "item"
+  },
+  {
+    "name": "Runenbestickte Feurrobe",
+    "type": "item"
+  },
+  {
+    "name": "Runenbestickte Robe",
+    "type": "item"
+  },
+  {
+    "name": "Runenbestickte Robe +1",
+    "type": "item"
+  },
+  {
+    "name": "Runenbestickte Robe +2",
+    "type": "item"
+  },
+  {
+    "name": "Runenbestickte Robe +3",
+    "type": "item"
+  },
+  {
+    "name": "Rüstung des Kriegers",
+    "type": "item"
+  },
+  {
+    "name": "Rüstung des Löwen",
+    "type": "item"
+  },
+  {
+    "name": "Rüstung des Schützen",
+    "type": "item"
+  },
+  {
+    "name": "Rüstung des Spähers",
+    "type": "item"
+  },
+  {
+    "name": "Sack",
+    "type": "item"
+  },
+  {
+    "name": "Sanduhr",
+    "type": "item"
+  },
+  {
+    "name": "Sattel",
+    "type": "item"
+  },
+  {
+    "name": "Satteltasche",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtbeil",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtbeil +1",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtbeil +2",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtbeil +3",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtgeißel",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtgeißel +1",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtgeißel +2",
+    "type": "item"
+  },
+  {
+    "name": "Schlachtgeißel +3",
+    "type": "item"
+  },
+  {
+    "name": "Schlafstaub",
+    "type": "item"
+  },
+  {
+    "name": "Schlagring",
+    "type": "item"
+  },
+  {
+    "name": "Schlagring +1",
+    "type": "item"
+  },
+  {
+    "name": "Schlagring +2",
+    "type": "item"
+  },
+  {
+    "name": "Schlagring +3",
+    "type": "item"
+  },
+  {
+    "name": "Schleuder",
+    "type": "item"
+  },
+  {
+    "name": "Schleuder +1",
+    "type": "item"
+  },
+  {
+    "name": "Schleuder +2",
+    "type": "item"
+  },
+  {
+    "name": "Schleuder +3",
+    "type": "item"
+  },
+  {
+    "name": "Schloss: Einfach (SW: 0)",
+    "type": "item"
+  },
+  {
+    "name": "Schloss: Gut (SW: 2)",
+    "type": "item"
+  },
+  {
+    "name": "Schloss: Meisterartbeit (SW: 8)",
+    "type": "item"
+  },
+  {
+    "name": "Schloss: Solide (SW: 4)",
+    "type": "item"
+  },
+  {
+    "name": "Schloss: Zwergenarbeit (SW: 12)",
+    "type": "item"
+  },
+  {
+    "name": "Schnelligkeitstrank",
+    "type": "item"
+  },
+  {
+    "name": "Schutzring +1",
+    "type": "item"
+  },
+  {
+    "name": "Schutzring +2",
+    "type": "item"
+  },
+  {
+    "name": "Schutzring +3",
+    "type": "item"
+  },
+  {
+    "name": "Schutztrank",
+    "type": "item"
+  },
+  {
+    "name": "Schwebenamulett",
+    "type": "item"
+  },
+  {
+    "name": "Schwebentrank",
+    "type": "item"
+  },
+  {
+    "name": "Schwere Armbrust",
+    "type": "item"
+  },
+  {
+    "name": "Schwere Armbrust +1",
+    "type": "item"
+  },
+  {
+    "name": "Schwere Armbrust +2",
+    "type": "item"
+  },
+  {
+    "name": "Schwere Armbrust +3",
+    "type": "item"
+  },
+  {
+    "name": "Seife (1 Stück)",
+    "type": "item"
+  },
+  {
+    "name": "Seil (10m)",
+    "type": "item"
+  },
+  {
+    "name": "Skrupelloser Bogen",
+    "type": "item"
+  },
+  {
+    "name": "Smaragd-Schlüssel",
+    "type": "item"
+  },
+  {
+    "name": "Söldnertreu",
+    "type": "item"
+  },
+  {
+    "name": "Speer",
+    "type": "item"
+  },
+  {
+    "name": "Speer +1",
+    "type": "item"
+  },
+  {
+    "name": "Speer +2",
+    "type": "item"
+  },
+  {
+    "name": "Speer +3",
+    "type": "item"
+  },
+  {
+    "name": "Spruchspeicherring",
+    "type": "item"
+  },
+  {
+    "name": "Stab des Magus",
+    "type": "item"
+  },
+  {
+    "name": "Stahlflamme",
+    "type": "item"
+  },
+  {
+    "name": "Stärketrank",
+    "type": "item"
+  },
+  {
+    "name": "Streitaxt",
+    "type": "item"
+  },
+  {
+    "name": "Streitaxt +1",
+    "type": "item"
+  },
+  {
+    "name": "Streitaxt +2",
+    "type": "item"
+  },
+  {
+    "name": "Streitaxt +3",
+    "type": "item"
+  },
+  {
+    "name": "Streithammer",
+    "type": "item"
+  },
+  {
+    "name": "Streithammer +1",
+    "type": "item"
+  },
+  {
+    "name": "Streithammer +2",
+    "type": "item"
+  },
+  {
+    "name": "Streithammer +3",
+    "type": "item"
+  },
+  {
+    "name": "Streitkolben",
+    "type": "item"
+  },
+  {
+    "name": "Streitkolben +1",
+    "type": "item"
+  },
+  {
+    "name": "Streitkolben +2",
+    "type": "item"
+  },
+  {
+    "name": "Streitkolben +3",
+    "type": "item"
+  },
+  {
+    "name": "Sturmrobe",
+    "type": "item"
+  },
+  {
+    "name": "Tagesration (3 Mahlzeiten)",
+    "type": "item"
+  },
+  {
+    "name": "Talenttrank",
+    "type": "item"
+  },
+  {
+    "name": "Talgkerze (brennt 6h)",
+    "type": "item"
+  },
+  {
+    "name": "Tee (10 Tassen)",
+    "type": "item"
+  },
+  {
+    "name": "Teleporttrank",
+    "type": "item"
+  },
+  {
+    "name": "Tinte (reicht für 50 Seiten)",
+    "type": "item"
+  },
+  {
+    "name": "Topf",
+    "type": "item"
+  },
+  {
+    "name": "Trank der Gasgestalt",
+    "type": "item"
+  },
+  {
+    "name": "Trank der Lebenskraft",
+    "type": "item"
+  },
+  {
+    "name": "Trank der Zwergensicht",
+    "type": "item"
+  },
+  {
+    "name": "Turmschild",
+    "type": "item"
+  },
+  {
+    "name": "Turmschild +1",
+    "type": "item"
+  },
+  {
+    "name": "Turmschild +2",
+    "type": "item"
+  },
+  {
+    "name": "Turmschild +3",
+    "type": "item"
+  },
+  {
+    "name": "Umhängetasche",
+    "type": "item"
+  },
+  {
+    "name": "Unsichtbarkeitsring",
+    "type": "item"
+  },
+  {
+    "name": "Unsichtbarkeitstrank",
+    "type": "item"
+  },
+  {
+    "name": "Unverwundbartrank",
+    "type": "item"
+  },
+  {
+    "name": "Verbandszeug",
+    "type": "item"
+  },
+  {
+    "name": "Vergrößerungstrank",
+    "type": "item"
+  },
+  {
+    "name": "Verjüngungstrank",
+    "type": "item"
+  },
+  {
+    "name": "Verkleinerungstrank",
+    "type": "item"
+  },
+  {
+    "name": "Wachsamkeitstrank",
+    "type": "item"
+  },
+  {
+    "name": "Wachskerze (brennt 10h)",
+    "type": "item"
+  },
+  {
+    "name": "Waffenlos",
+    "type": "item"
+  },
+  {
+    "name": "Waffenpaste",
+    "type": "item"
+  },
+  {
+    "name": "Waffenweih",
+    "type": "item"
+  },
+  {
+    "name": "Wagen (4 Räder)",
+    "type": "item"
+  },
+  {
+    "name": "Wasserschlauch (5 Liter)",
+    "type": "item"
+  },
+  {
+    "name": "Wasserwandeltrank",
+    "type": "item"
+  },
+  {
+    "name": "Wechselring",
+    "type": "item"
+  },
+  {
+    "name": "Wehrpanzer",
+    "type": "item"
+  },
+  {
+    "name": "Weihwasser (1/2 Liter)",
+    "type": "item"
+  },
+  {
+    "name": "Werkzeugset",
+    "type": "item"
+  },
+  {
+    "name": "Wildhüterharnisch",
+    "type": "item"
+  },
+  {
+    "name": "Wolfsmantel",
+    "type": "item"
+  },
+  {
+    "name": "Wurfmesser",
+    "type": "item"
+  },
+  {
+    "name": "Wurfmesser +1",
+    "type": "item"
+  },
+  {
+    "name": "Wurfmesser +2",
+    "type": "item"
+  },
+  {
+    "name": "Wurfmesser +3",
+    "type": "item"
+  },
+  {
+    "name": "Zauberköcher",
+    "type": "item"
+  },
+  {
+    "name": "Zaubertrank",
+    "type": "item"
+  },
+  {
+    "name": "Zauberwechseltrank",
+    "type": "item"
+  },
+  {
+    "name": "Zelt (2 Mann)",
+    "type": "item"
+  },
+  {
+    "name": "Zieltrank",
+    "type": "item"
+  },
+  {
+    "name": "Zornhammer",
+    "type": "item"
+  },
+  {
+    "name": "Zwergenaxt",
+    "type": "item"
+  },
+  {
+    "name": "Zwergenaxt +1",
+    "type": "item"
+  },
+  {
+    "name": "Zwergenaxt +2",
+    "type": "item"
+  },
+  {
+    "name": "Zwergenaxt +3",
+    "type": "item"
+  }
+]
